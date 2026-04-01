@@ -69,7 +69,7 @@ The dashboard enables users to explore trends based on:
 ---
 
 ## Dashboard Demo Video
-[Watch Dashboard Video](HR_Employee_Attrition_and_Retention_Insights_Dashboard.mp4)
+![Dashboard Video](HR_Employee_Attrition_and_Retention_Insights_Dashboard.mp4)
 
 ---
 
